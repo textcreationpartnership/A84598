@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The good old cause dress'd in it's primitive lustre, and set forth to the view of all men. Being a short and sober narrative of the great revolutions of affairs in these later times. By R. Fitz-Brian, an affectionate lover of his country.</title>
+            <author>Fitz-Brian, R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84598</idno>
+            <idno type="STC">Wing F1068</idno>
+            <idno type="STC">Thomason E968_6</idno>
+            <idno type="STC">ESTC R207693</idno>
+            <idno type="EEBO-CITATION">99866730</idno>
+            <idno type="PROQUEST">99866730</idno>
+            <idno type="VID">119015</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119015)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 144:E968[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The good old cause dress'd in it's primitive lustre, and set forth to the view of all men. Being a short and sober narrative of the great revolutions of affairs in these later times. By R. Fitz-Brian, an affectionate lover of his country.</title>
+                  <author>Fitz-Brian, R.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G.C. at the Black-spread-Eagle at the west-end of St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "feb: 16 Feb 16. 1658"; the 9 in the imprint date has been crossed out and replaced with an "8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119015:1" rendition="simple:additions"/>
+            <p>THE GOOD OLD CAuSE DRESS'D IN IT'S PRIMITIVE LUSTRE, AND SET FORTH TO THE VIEW OF ALL MEN.</p>
+            <p>
+               <hi>Being a ſhort and Sober Narrative of the great Revolutions of Affairs in theſe later times.</hi>
+            </p>
+            <p>By R. FITZ-BRIAN, an affectionate Lover of his Country.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. C.</hi> at the Black-ſpread-<hi>Eagle</hi> at the Weſt end of St. <hi>Paul</hi>'s Church-yard. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:119015:2"/>
+            <head>The good old Cauſe dreſt in it's primi<g ref="char:EOLhyphen"/>tive Luſtre, &amp;c.</head>
+            <div type="preface">
+               <head>The Preface. When it is, that changes evenes in States.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He changes, and revolutions in States and Common<g ref="char:EOLhyphen"/>wealths, as they have by degrees iſſued out of the corrupti<g ref="char:EOLhyphen"/>on, and male-Adminiſtration of Governments, ſo have they uſually been accompanyed with moſt remarkeable Pro<g ref="char:EOLhyphen"/>vidences; And by how much the more ſpiritual the deſigns of God are in the wombe of ſuch productions, by ſo much the more viſibly doe's He let out the ſignal Testimonies of his Preſence and Glory. When States are at the worſt; when vitious, and pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cant humours are every where predominant; when the prevalency of evil Counſells doe's take place to the introducing of new, and Arbitra<g ref="char:EOLhyphen"/>ry impoſitions, contrary to the eſtabliſhed Conſtitutions; They muſt then either neceſſarily ſinke under their own weight, and crumble in<g ref="char:EOLhyphen"/>to diſorder, Anarchy and ruine; Or elſe there will follow ſome notable alterations: And the diſtempers being ſo great, and enormous, that they cannot poſſibly admit of a redreſs, and healing, and conſerve ſtill their old frame, Things muſt unavoydeably wheele about, and fix themſelves upon another Baſis. In ſuch a Mappe as this, may we view the more than ordinary tranſactions of our later times; which, though they were ſmall in their beginnings, yet have they by ſeverall ſteps, and progreſsions been advanced to a conſiderable height: And I may ſay, there have been ſuch interweavings of ſtupendious Provi<g ref="char:EOLhyphen"/>dences; ſuch diverſifications in the manner of proceeds; ſuch glo<g ref="char:EOLhyphen"/>rious exertings of power, and goodneſs, ſuch aſtoniſhing ſucceſſes, and ſuch legible characters of divine ownings, That we are now bigg with juſt hopes of arriving in the end unto ſome eminent eſtabliſh<g ref="char:EOLhyphen"/>ment, even above the magnificence of all thoſe forms, which meerely have the worldly ſtamp upon them.</p>
+            </div>
+            <div n="1" type="section">
+               <head>
+                  <hi>Sect. I.</hi> The true Sources of our late Revolutions.</head>
+               <p>IF we ſuffer not our ſelves to be miſguided with prejudices, bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> im<g ref="char:EOLhyphen"/>partially trace things into their beginnings, we may eaſily diſcover t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:119015:2"/>inlet of all our miſchiefs, and the naturall ſp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing of our late alterati<g ref="char:EOLhyphen"/>ons. The hinges upon which they gradually turned, were the prela<g ref="char:EOLhyphen"/>ticall Tyranny of the Biſhops, innovating in things of Religious con<g ref="char:EOLhyphen"/>cernment, and laying inſupportable burdens upon the conſciences of tender Chriſtians: And the ſecret, and politick inſinuations of evil Councellours, and Favourites, invading all rights, ſubverting the funda<g ref="char:EOLhyphen"/>mentall conſtitutions, and forcibly ſway<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng all things unto an abſolute Domination. Both theſe joyned hand in hand together, and mutu<g ref="char:EOLhyphen"/>ally conſpired to accompliſh the ſame deſign; The tendency where<g ref="char:EOLhyphen"/>of was in the iſſue to trample upon all Lawes, to inthrall us at plea<g ref="char:EOLhyphen"/>ſure, and to ſubject us under the iron yoke of an abſolu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e diſpoſall. The Epiſcopal Juriſdiction was in it's day very fierce, and lofty: wit<g ref="char:EOLhyphen"/>neſs thoſe ſevere ſentencings to impriſonments, to wh ppings, to Pil<g ref="char:EOLhyphen"/>lories, and to ſtigmatizing<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, which were then frequen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly thundred a<g ref="char:EOLhyphen"/>gainſt many honeſt innocent perſons; in whom there was found nothing criminall, but that they worſhip't God in purity of ſpirit, and durſt not conform to their ſuperſtitious in junctions What a rabble of exotick ceremonies, &amp; unwarrantable traditions were then brought in, and impoſed, All that conſult with the naked hiſtory of that genera<g ref="char:EOLhyphen"/>tion, may eaſily take notice of: And as if a prophane and profligate ſpirit were the fitteſt to ſwallow down, and without ſcruple to live under ſuch ſuperſtitious rites, and obſervances; They decryed and diſcountenanced Preaching, they pleaded publiquely for, and with the face of Authority tolerated ſports, and paſtimes on the Sabbath dayes. Hence was it, that theſe two being thus twiſted, and married together, there ſprung up a monſtrous brood of all diſorders, and uſurpations; And the generality having thereby their reaſon darkned, and beſotted, as well as their conſciences, were in a pliant temper to re<g ref="char:EOLhyphen"/>ceive the impreſſions of ſlavery, and unjuſt encroachments. In this juncture the precious people of God, who were at once made the object both of their ſcorn, and fury, were trampled upon by the foot of pride, and inſolency: They were driven into corners; They were made to ſerve with rigour, and hard bondage; Their ruine<g ref="char:punc">▪</g> and ex<g ref="char:EOLhyphen"/>tirpation was deſigned; Many of them being haled to their illegall Courts, endured cruelties as barbarous, as are acted in the Inquiſi<g ref="char:EOLhyphen"/>tion: And others being willing to preſerve peace wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hin, and to free themſelves from their mixtures, and defilements, were enforced to exile themſelves from their native comforts, and relations here, and to wander deſolate in forrain deſerts. At the ſame time, and confederate with this Exorbitant power, did the evill Councill<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the
+<pb n="4" facs="tcp:119015:3"/>Nation, in things alſo of civill cogn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zance, hurry all things head long into one abſolute Grandeur. The great Maſter-piece of their deſign was if (poſſibly) to elude all Parliaments, knowing, that thoſe one<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſtood in the way to hinder, and d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſappoint their intendments. And the better to ſtrengthen themſelves herein, They ſtarred many projects, and inventions, hoping either by their Monopolies, or by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir Knight<g ref="char:EOLhyphen"/>hood, or by their ſhipp-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onies, or by ſome ſuch obſolete quillet to have preſerved their Treaſures full, and entire; And they cea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed not to ſcrew up, and diſtort<g ref="char:punc">▪</g> as well their own wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, as our rights, by endeavouring to make thoſe devices of their's to appear with the face and colour of a Law. Things being thus poſtured, there wanted but very little of effecting what they ſo ſtrenuouſly ſought after, to be the abſolute Maſters of our lives, liberties and eſtates at their own plea<g ref="char:EOLhyphen"/>ſure: The whole current of the Adminiſtration of Juſtice being out cou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe; the Judges of the Land, that ſhould be the directours of what is Law and Right, either corruptly oppoſing, or elſe not daring to declare the truth; And thoſe that did ſpeak their judgements free<g ref="char:EOLhyphen"/>ly, and honeſtly, being upon that very account immediately diſpla<g ref="char:EOLhyphen"/>ced, and put out of Office.</p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>Sect. II.</hi> The dawning of the day of Reformation.</head>
+               <p>WHen the thickeſt darkneſs of the night had thus overſhadowed us, and the declining of the Sun towards its Biuniall ſolſtice had ſufficiently aſſured us, that it was a ſharpe and rigorous winter; B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hold all on a ſudden the day began to dawn, and the return of the long abſent Sun gave us the unexpected hopes of an approaching Summer. The grievances of the Nation were become inſufferable; Arbitrari<g ref="char:EOLhyphen"/>neſs, and Lordly Domination was riſen up to the height, all things were ſtretch't out to their utmoſt length; and the whole frame of affairs was ſo deplorable, that we were as hopeleſs of having redreſs, as we were certain, that we were plunged under ruin. Yet even then did the light breake forth, and that very diſmall ſeaſon, when it was at the blackeſt, prov'd the vertical point, which at once put a ſtop to the further carreer of our deſigned miſeries, and brought backe the glorious diſplayings of our revived comforts. When reaſon was p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſled, and could not diſcern the leaſt probability of ſuccour; when our enemies triumphed that their mountain ſtood ſtrong, and that they had ſo firmly ſeated themſelves, as that it was impoſſible for them to be removed; the Divine power, and goodneſs, which befool's the
+<pb n="5" facs="tcp:119015:3"/>wiſdome of the wiſe, &amp; works contrary to humane appearances, over<g ref="char:EOLhyphen"/>th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew their confidences as in a moment; And wo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>king wonders for his people, exalted them from the dunghill unto a condit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on of em<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nency, and enlargement. It is a delight to conſider, what a lively, gene<g ref="char:EOLhyphen"/>rous active ſpirit was poured out in thoſe daies upon thoſe good hearts, which befo e had ſuffered hard things: who being awakened by the ar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſing of the glory of the Lord upon them, did pray, believe, and act vigorouſly to reduce this diſordered, ſhattered Naton unto a poſture of a ſixt and happy ſettlement. The eminent Worthies then aſſembled in Paliament did ſweat and toil, and thought no hardſhip's too much to be undergone, no difficulties too great to be encountred with, to promote, and accompliſh a perfect Reformation. How much do ſuc<g ref="char:EOLhyphen"/>ceeding generations owe to them for all their diligence, and ſedulity, for all their watchings, and pains-taking for all the affronts, and ſcorns, which they endured? The fruit and ſucceſs whereof we are at this day reaping, and enjoying It cannot be thought, but that ſo great a work, undertaken in ſuch a diſtempered dreggy juncture of time, ſhould meet with ſtrong oppoſitions, and that many great Mountains ſhould then ſtand in the way, as hard to be removed, as they were powerfull to darken, and overſhadow thoſe ſmall beginnings. Hence was it, that all ſober, and good men, knowing themſelves deeply concerned in thoſe concernments, and that all that was dear to them, was wrapt up in the happy and uninterrupted proceedings of the Parliament; they did to their utmoſt capacities endeavour to ſtrengthen their hands, and did bring in ſeveral materials to advance ſo excellent a ſtructure. The Parliament is no other, than the high and ſupream Court of Judica<g ref="char:EOLhyphen"/>ture, entruſted with the rights, and liberties of the Nation; and they acting ſingly for the good, and advantage of thoſe whom they repre<g ref="char:EOLhyphen"/>ſent, and to redreſs all oppreſſions, and grievances lying upon them, They ought to challenge all their endeavours, their counſels, and their abillities to aſſiſt, and ſupport them in that work. It would be a pro<g ref="char:EOLhyphen"/>digie in the conſtitution, if the Parliament ſhould betray, and ſacrifice the Native freedomes of their Country unto the exorbitant will, and luſt of any perſon, or Authority: And it would be as g eat a ſenſleſneſs, and ſtupour in the people, if by deſerting the Paliament they ſuffer them to ſinke, and be ruined, whilſt they are contending with any Malevolent power, that riſes up to inſlave them. There was in theſe virgin daies ſuch a mutuall, ſtrict, and lovely harmony and agreement as this between the Parliament, and the honeſt unbiaſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d peop<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the Nation; whe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eby it came to paſs that the management
+<pb n="6" facs="tcp:119015:4"/>of the affairs then in their hands, though intricate, and perplexed enough, and forcibly reſiſted, yet made ſo ſuccesfull a progreſs. It was the great aim of thoſe worthy Reformers, to take away every thing, that had the impreſs of uſurpation upon it; And as pro<g ref="char:EOLhyphen"/>phaneneſs and ſuperſtition had their birth, and riſe together, and availed mutually to rivet, and eſtabliſh each other in the Commonwealth; ſo was their extirpation and downfall together. All that will-worſhip, All thoſe ſupe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tious rites and obſervations of daies, and places; All thoſe exactions, that had been preſt upon the conſciences of tender Chriſtians; all Innovations whatſoever not warranted by a Divine rule, all prophane rioting, diſorders and exceſſes, and all ſports, and paſtimes, the bane of youth, and the poyſon of good manners, not conſiſtent to a well-guided Commonwealth: Theſe and whatſoever elſe was contrary to ſound Doctrine, to an holy converſation, and was an offence to good men, were removed, and taken out of the way. And <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey did not onely cleanſe the outſide, and pare off ſome ſuper<g ref="char:EOLhyphen"/>ficiall excreſcencies, but they pierced into the very heart and marrow, and by mak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng the vitals ſound they endeavou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed to prevent the re<g ref="char:EOLhyphen"/>turn of ſuch deſtruct<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve maladies. That great Tree which had ſpread it ſelf not onely to the hurt of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Nation, but even to the terrour of all gracious ſpirits, had not onely ſome of it's lofty boughs lopt off, but was even pluckt up by the very roots: They w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll knowing, that ſuperſtition, and rigour would in time have pullulated, and bud<g ref="char:EOLhyphen"/>ded forth afreſh, had any of that Epiſcopall ſtemme been left remai<g ref="char:EOLhyphen"/>ning. This was a great atchievement, very unfeiſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble in the eye of reaſon; but God who levells Mountains, and m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kes rough things ſmooth, put it in the hearts of the Nobles to effect it, and the people were willing unto the work. And as it was an inlet, and a neceſſary precedency to their great mutations, that were to follow, ſo it could not be compaſt without a dreadfull noiſe; ſuch unexpected, and un<g ref="char:EOLhyphen"/>uſuall ſhakings being ever accompanyed wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h the fury and diſpleaſure of the mighty ones: Nor did they terminate onely here, conten<g ref="char:EOLhyphen"/>ting themſelves to take away thoſe things, and that Juriſdict<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n out of which, as out of a corrupt Fountain, thoſe diſorders had iſſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d; But they proceeded alſo to call into queſtion thoſe perſons, who by their evil counſells had been the Author of al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chiefs. There is no greater Plague to a Commonweal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, than the ſwarm of Sycophants, and evill Counſellours, who are ſtill exciti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Prince, or chief Magiſtrate, to tread upon all Lawes, and to incroach upon the peoples rights; who being, it may be, in ſome things obnoxious
+<pb n="7" facs="tcp:119015:4"/>themſelves to the cenſures of the Law, can never think themſelves ſafe, but by walking in irregular &amp; extraordinary paths, and by diverting the ſtream of all things into the channel of Abſoluteneſs. It was therefore the wiſdom of our Worthies in Parliament, not onely to degrade, and remove ſuch from their places, and imployment, but to bring the moſt notorious offenders in that kind unto condigne puniſhment: That as they had publiquely offended, ſo they might publiquely anſwer it at the barre of Juſtice; under the ſtroke of which ſome of them fell, though not without a mighty crackling, and payd the puniſhments due to ſo great enormities; Whereby, there was as well publique ſatisfacti<g ref="char:EOLhyphen"/>on given to the Nation for the paſt in juryes it had ſuſtained, as a terrour, and diſcouragement left to ſuch as ſhould ſucceed from attempting the like practiſes for the future.</p>
+            </div>
+            <div n="3" type="section">
+               <head>
+                  <hi>Sect. III.</hi> The Cauſe in its firſt riſe and production.</head>
+               <p>IN the purſuit after a thorow Reformation, as a regard was had to the great intereſts and concernements of the people of God, that their Conſciences ſhould not be under Snares and Yoaks, by reaſon of rigid impoſitions, nor their perſons ſubjected to the Tyranny of any inſulting Juriſdiction; So the juſt Liberties of the Nation in things of a civill reſpect were induſtriouſly conteſted for and aſſerted. This being an indubitable Principle, That the civill Liberties, do in their true and genuine intention, conſerve the intereſts of the people of God, and the intereſts of the people of God do reciprocally uphold and give a bleſſing to the civill Liberties: So that they cannot, they ought not in reaſon to be divided; But to make up a flouriſhing Common-Wealth, they ſhould twine and intimately embrace each other in an union ne<g ref="char:EOLhyphen"/>ver to be diſſolved. It was therefore neceſſary to enquire into the antient and fundamentall Conſtitutions, which being eſtabliſhed by a grand Charter, and ſo often renued, and atteſted by the Petition of Right, it was not lawfull for any Power whatſoever to alter &amp; invade. Hereupon the priſon doores were opened, and ſuch as had been caſt into Durance, and confinement by an high hand, and by an Arbitra<g ref="char:EOLhyphen"/>ry Lawleſs Act of ſupreme will, were releaſed, and ſet at liberty. The illegall oppreſſive Courts, which had been ejected meerely to ſerve the luſt of one man, and to gratifie the inſatiable humours of cor<g ref="char:EOLhyphen"/>rupt ſpirits, and Intereſts, were at once condemned, and exploded: And all things that were miſerably blended, and put out of order, were made to revert again into the known and warrantable courſe, and
+<pb n="8" facs="tcp:119015:5"/>proceedings of Law, and equity. In the progreſs of this inquiry into our undoubted rights, and immunities, It was found that the chief Magiſtrate had uſurped a Prerogative, which was never rightly inherent in him to diſſolve Parliaments at hs pleaſure; When as by the an<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ent foundation they were to continue, as long as any grievance was unremoved, or any Petit on was unanſwered. It was alſo found, that he had not power to defer the aſſembling of Parliaments at his own Arbitrement, as was generally practiſed, and believed; but according to the ancient conſtitution, He was to call them once a year, or oftner, as occaſion ſhould require: Which were to be for the better Gover<g ref="char:EOLhyphen"/>ment of the people of God, and to g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve redreſs to ſuch injuries, as any had ſuſtained by the means of the King, Queen, and Prince, or by the miſgovernment of any perſon whatſoever. It was found likewiſe, that He had injuriouſly uſurped the power of a Negative voice, either to aſſent unto, or diſſent from thoſe Acts, which the Parliament brought unto him, according as he pleaſed; when as He was obliged by the inviolable bond of his oath to confirme, and ratifie all ſuch Laws, as the people, by their Repreſentatives in Parliament, ſhould make choice of. It was further made evident, that the power of the Militia, which He would have graſpt into his own hands, was ſolely and intrinſecal<g ref="char:EOLhyphen"/>ly reſiding in the Parliament: It being not conſiſtent with reaſon, nor with the Maximes of Nature, that any ſhould have the power of declaring, and making war, but the Repreſentatives of the people, whoſe blood and treaſure was neceſſarily to be ſpent, and ingaged therein. It was alſo evident, that the Revenue of the Nation was not to be imbeſled, and ſquandred away by the will of any, but that the Parlia<g ref="char:EOLhyphen"/>ment had onely, and abſolutely the diſpoſall thereof: And that no tax, or impoſition, either by way of Loan, or fine, or by any other project: or invention, upon any pretence whatſoever, was to be levyed upon the people without the conſent of their Repreſentatives in Parliament, Theſe are without doubt the naturall, fundamentall, and eſſentiall Principles conſtituting this Commonwealth; which at once both propa<g ref="char:EOLhyphen"/>gates our Liberties, and diſtinguiſh us from Brutes and Slaves; Which cannot be infringed much leſs parted with to any be the Government in what mode and form ſoever without manifeſt, and open violation of our indubitable rights, And in this channell glide along the ſtream of the ſpirits of our renowned Patriots, never to be mentioned without reſpect and honour; Who wearied, and waſted themſelves with indefa<g ref="char:EOLhyphen"/>tigable paines; who encountred with ravenous, and Lion-like tempers, and conteſted unto blood, that they might both vindicate us, and all
+<pb n="9" facs="tcp:119015:5"/>that is of neareſt concern unto us, from under the paw of Tyranny<g ref="char:EOLhyphen"/>cal encroachments. Whilſt theſe things were on the ſtage, there were many various occurrences, and providentiall appearances, evi<g ref="char:EOLhyphen"/>dently witneſſing to the truth, and righteouſneſs of ſuch underta<g ref="char:EOLhyphen"/>kings. There were about two years ſpent in endeavouring to bring them to an happy birth, but they proved ſucceſleſs; ſo great an influence had the Malignant aſpects of the evill Counſellours, to hinder the Nation of ſuch high advantages. And though ſome faint conceſſions were made in order thereunto, yet it was with the reſerve of ſuch an unlimited power, that would in time have blaſted all the reſt, and have certainly ſubjected us again, under the thral<g ref="char:EOLhyphen"/>dome of our ancient grievances. The conteſts and differences here<g ref="char:EOLhyphen"/>upon did ſwell to an irreconcileable height; a civil war brake forth, the flame being ſo fierce, and violent, that it could not be quenched, till the ſword had given a deciſion, on what part the righteouſneſs of the quarrell lay. It is undeniably evident, that the whole ſeries of thoſe proceedings were diſtaſtfull, and againſt the hair; But that which was in view, and openly declared to be the point they brake on; was the Negative voice, and the power of the Militia: Wherein every one that is not of a perverſe cavilling ſpirit, may receive full and pregnant ſatisfaction, by having recourſe to the naked ſtory, and paſſages of thoſe times. It was upon this account, that both parties joyned iſſue, that they entred into the field, and fought ſo many fierce, and bloody Battels. In the proſecution whereof, knowing, that our lives, liberties, and eſtates, and all our ſpiritual, as well as civil en<g ref="char:EOLhyphen"/>dearments were involved in it, we did make ſo many ſolemne, and ſerious appeals unto the righteous God, and whereunto He was pleaſed reciprocally to return ſo many glorious pregnant proofs of his power, and goodneſs. Hence it is, that we call it by way of Eminency, our Cauſe, our firſt, and virgin-Cauſe, never to be receded from, nor blotted out of memory; ſince God has ſtampt upon it ſo many golden characters, and pledges of his in<g ref="char:EOLhyphen"/>comparable Preſence. And as it was a blemiſh in any of the people of <hi>England</hi> in thoſe daies to deſert the Parliaments Intereſt, and to joyne with that power, that would have inſlaved them: So it will ſtrike poſterity with aſtoniſhment, If after we have broken that rod, that did oppreſs and ſmite us; after we have reſcued our liberties out of the very fire, we ſhould again reſign the bucklers, and proſtitute them, and our ſelves, to the will, mercy,
+<pb n="10" facs="tcp:119015:6"/>and courteſie of any: This being a ſafe prudentiall Maxime, that it is eaſier for the people to keep what they have rightly gotten, than by intruſting it to others, upon apprehenſion of their inge<g ref="char:EOLhyphen"/>nuity, and candour, to fetch it back again out of their encroach<g ref="char:EOLhyphen"/>ments</p>
+            </div>
+            <div n="4" type="section">
+               <head>
+                  <hi>Sect. IV.</hi> The provident all uniting of the honeſt party in a victorious Army.</head>
+               <p>THis Warre being undertaken, the ſucceſſe was for a long time vari<g ref="char:EOLhyphen"/>ous, the iſſue doubtfull; It ſeemed to bechecquered with d fferent &amp; uncertain appearances; The victory ſometimes inclined to the one, ſometimes to the other party: There was much blood ſpilt, much treaſure exhauſted, and yet a deſired and happy end thereof was to the eye of reaſon, as remote and far diſtant as ever. But in a good and beautifull ſeaſon, well known to the wiſdome and love of our God, to whom we had ſilently committed our ſelves and our cauſe, There was on a ſudden, the breaking forth of a mighty preſence, the diſplayings of an invinſible ſpirit to decide the Controverſie: And when men failed, ſome deſerting and proving treacherous, ſome deſigning the ruin of the Inſtruments engaged in the worke, and almoſt all contemning them as uncapable to carry it on; Even then did the Lord exalt himſelf, and accompanying thoſe poor deſpiſed ones, even to wonders, bleſſed them with uninterrupted ſucceſſes. It was then when the Providence of God, contrary to all humane appearances, and beyond their intentions, had modelled and brought together his own people, and imbodied them in an Army, to effect his great de<g ref="char:EOLhyphen"/>ſignes. It was by theſe that he thraſh'd the Mountains, that he hew'd downe the towring Okes, that he brake the inſulting tyranicall powers; And whom he particularly ſingled out from amongſt all others, to ac<g ref="char:EOLhyphen"/>compliſh the great Affaires then on the Wheel; As if he diſtinctly pointed out thus much, that he had reſerved for them the honour of the day; that it was peculiarly for their ſakes that he had brought about thoſe unexpected Revolutions; That as they had been the chiefeſt ſufferers, and been trampled upon by the haughtineſſe of thoſe inſufferable Oppreſſors, ſo they ſhould be the chiefeſt and moſt eminent, that ſhould at once both worke thoſe deliverances, and enjoy the fruits of them. And though they were of different appre<g ref="char:EOLhyphen"/>henſions and judgements, in ſome things pertaining to the Conſcience, yet they were all indifferently made uſe of, and in the bonds of
+<pb n="11" facs="tcp:119015:6"/>ſtricteſt love united in the carrying on of that common Cauſe. And there was not the leaſt inconſiſtency but that they might ſtill have mu<g ref="char:EOLhyphen"/>tually joyed in the Advantages ariſing from thence, without jarrings and diſcords, untill the day ſhould dawn, that by the revelation of Truth in its cleareſt appearances, expelling all miſts and miſtakes, they might firmly fix, and center in one heart and in one mind.</p>
+            </div>
+            <div n="5" type="section">
+               <head>
+                  <hi>Sect. 5.</hi> The interpoſall of a juriſdiction as deſtructive as the former.</head>
+               <p>AFter that this righteous Cauſe had been ſo triumphantly owned, and witneſſed unto, even beyond the face of a deniall; After that the name of God had been ſo lifted up, and magnified in the vindication of it, that all the adverſe Forces were ſcattered and broken, with all their Complices and Adherents; After that we had riſen up to full grown expectations, that we ſhould undoubtedly reape the bleſſings of our long and difficult conteſts, and of the expence of all our toll, treaſure, and blood; There preſently brake forth, a furious fiery party which endeavoured to erect a Dominion as rigid and as deſtructive to the Peace and Liberties of the people of God, as ever that Power was which had been formerly extirpated; who breathing out threatnings, and being of fierce ſpirits, twiſted ſevere rods for our backes, and layd impoſitions upon our conſciences, as heavy, and grievous to be born, as thoſe were, under which the former generation had miſe<g ref="char:EOLhyphen"/>rably groaned. It is well known, to what an height the Presbyteri<g ref="char:EOLhyphen"/>an juriſdiction did all on a ſudden Mount; how ruggedly they dealt with many precious tender hearts, that could not in all things con<g ref="char:EOLhyphen"/>form to their preſcriptions: And as if they had ſet themſelves, not onely to equall, but even to outvy the Epiſcopall Tyranny, they caſt into priſons ſuch as did encourage, and frequent Chriſtian meetings in private houſes, Wherein they did very little differ from their Predeceſſours, the Biſhops, who branded the ſpirituall communion of the Saints in thoſe daies with the name, and crime of Conventicles. They exacted Tythes without remorſe; they arrogated to impoſe Articl<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Faith, to be neceſſarily owned, and believed, ſuitable to the narrow limits of their darke underſtandings. They condemned for blaſphemy, errour, hereſie, and ſectariſm, all ſuch opinions, as did in the leaſt differ from their over-weening conceits, and apprehenſions: and aſſuming as it were an infallibi<g ref="char:EOLhyphen"/>lity to their dictates, and interpretations, They proſecuted all
+<pb n="12" facs="tcp:119015:7"/>diſſenters with fire, and ſword, and ſuited for them reſpective puniſhments, according as their Arbitrary, and enraged wills did hurry them. They ambitiouſly aſpired to ſeat themſelves in the chaire; and like the Epiſcopal Grandeur, they encroach't over the civill power, ſetting their foot upon it, and wieling it, at once both to ſerve their own Intereſts, &amp; to execute the ſeverity of their injunctions. They graſp't after a Lordlineſs to inſlave the Nation under their girdle; and as their pride, inconſiderate zeal, and hot tempers did ſway them, they laid the foundation of a moſt bloody, and inſupportable perſecution. It was ſtrange to ſee, how all our hopes were daſht on a ſudden, how the heavens were over<g ref="char:EOLhyphen"/>caſt, and the ſerenity, which we rejoyc'd in for a ſeaſon, was ob<g ref="char:EOLhyphen"/>ſcured with the interpoſall of a thick dark cloud. What a poor, and barbarous requitall was it to the Army, and to thoſe good Hearts, that had borne the burden of the day, that had willingly hazarded themſelves in the vindication of the juſt liberties of the Nation, to be put to this ſtreight for their conſcience ſake, either to imbrace a priſon, or elſe to choſe an exilement from their na<g ref="char:EOLhyphen"/>tive comforts, relations and into remote and forraign countries? How diſſonant was it, not onely to all Ingenuity, but even to the very ends, and intrinſick intendments of their ingaging at firſt in that quarrell, to have the name only changed, but to be really under as great yokes, preſſures, and burdens, to have arbitrarineſſe, op<g ref="char:EOLhyphen"/>preſſion, unrighteouſneſſe, and ſlavery perpetuated under as ſtrong enforcements, as they were, before the beginning of theſe differen<g ref="char:EOLhyphen"/>ces? Yet ſurely, if we will not betray, and forfeit our underſtand<g ref="char:EOLhyphen"/>ings we muſt needes ſay, that the power, which then had riſen up with a new ſhape, as dreadfull, and dangerous, as that former was, which had been abandoned, and ſubdued.</p>
+            </div>
+            <div n="6" type="section">
+               <head>
+                  <hi>Sect. VI.</hi> The cauſe in it's ſecond appearance, explained and enlarged.</head>
+               <p>BUt in this difficult perplexed juncture, the Lord of glory, who had great diſcoveries of Love, and goodneſſe to diſpence forth, did not then deſert his people, nor their cauſe; He was pleaſed to take that advantage to advance their's, and the Nations concernes to an higher, and more flouriſhing State, than at firſt was in the eye, I had almoſt ſaid in the wiſhes of our Reformers. The Army therefore groaning under thoſe unjuſt provocations; Having bleed<g ref="char:EOLhyphen"/>ing
+<pb n="13" facs="tcp:119015:7"/>hearts for the enthralments, and ſufferings of their fellow-bre<g ref="char:EOLhyphen"/>theren; being excited, and awakened by the Lord; being aſſiſted with the united prayers, and counſells, and ſtrength of his people; they did ſeaſonably interpoſe; And, according to the duty incumbent on them, and to the opportunity offered them, They did endeavour, as well to remove the miſeries then impending, and threatned, as to carry on the work, ſo happily begun, to its utmoſt period. It cannot be denied, but that there brake forth then a moſt righteous majeſtick ſpirit: And as they took in the whole compaſs, and latitude of the cauſe, as it was firſt ſtated, and declared; ſo they did explain it, and annex ſome additionall enlargements, moſt neceſſary to bring it to a perfection. Neither did they make herein ſome faint overtures, and eſſayes, but as the exigency of the jun<g ref="char:EOLhyphen"/>cture did require, They did bind themſelves under moſt inviolable promiſes, and ingagements unto the Nation, to contend for them with all earneſtneſs, untill they were effected. It was too juſt, and univerſall a complaint, That all things were out of courſe, that Tyranny, oppreſſion, and injuſtice had mingled themſelves every where; whereupon it was publiquely aſſerted, that all expedients ſhould be enterpriſed to remove all burdens, and exactions, that ſo righteouſneſs might diffuſe it ſelf, and run down, like a mighty ſtream, throughout all the Nation. And becauſe that the management of things in the hands of unrigh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eous men was the great reaſon of ſuch diſorders, and miſcarriages, It was declared, that it ſhould be their Principle, to imploy the honeſteſt, and moſt upright perſons in all places of power, truſt, and advantage. It was the wounding of the hearts of all good men, that impoſitions ſhould be put upon the underſtanding, and upon the faith of an<g ref="char:EOLhyphen"/>other, a cruelty more rigorous, than ever the <hi>Aegyptian</hi> Task-maſters exerciſed; That any ſhould be enſnared for his conſcience ſake; and becauſe he differs in ſome principles, and apprehenſions, that he ſhould be proſecuted as an heretique, ſectary, blaſphemer; It was therefore reſolutely conteſted for, That there ſhould be an univerſall liberty, and toleration held forth, and that no coaction, nor compulſion ſhould be layd upon any in matters of belief, and worſhip. It was very grievous to conſider, That the priſons ſhould be fill'd with the free ſubjects upon any ſmal pretenſions whatſoever; either upon miſtakes, conjectures, or ſuſpicions, which had not the leaſt ground of beliefs, but onely in the jealous head of ſome great Statiſt; Or, becauſe the opinions of ſome do not in every
+<pb n="14" facs="tcp:119015:8"/>thing ſuite with anothers underſtanding; or becauſe the rich being exaſperated againſt ſome poor men, who were indebted to them, would forthwith caſt them into durance, not ſo much to gain their own, as to gratifie their revenge: or elſe, becauſe men of eſtates, having a purpoſe to defraud their Creditors, were reſolved to convert a priſon into their habitation; It was therefore reſolved on, that all priſons ſhould be opened to ſuch, againſt whom there was nothing obj<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cted, but that they diſſented from others in ſome points, and principles of religion, pertaining either to doctrine, or worſhip; That the poor, who had nothing to pay their debts with, ſhould be freed from the bondage of a perpetuall confinement, and permit<g ref="char:EOLhyphen"/>ted to follow their reſpective vocations for their ſubſiſtence; that none ſhould take a leaſe of a priſon for his life, but that all ſuch illegall priſons ſhould be inſpected into, and for the future regu<g ref="char:EOLhyphen"/>lated: And that the Impriſoned, either meerly upon ſuſpicions, or otherwiſe, ſhould be brought in ſome convenient time to their Trialls, that either they might be acquitted, or elſe, being found guilty, might receive puniſhments due to their Offences. Moreover the groans and complaints of poor Conſciencious men, who upon juſt ſcruples durſt not pay Tithes, and yet were vexed, impriſoned' and ruined about it, moving and exciting Bowells of compaſſion; It was earneſty deſired, That all tenderneſſe might be had to ſuch in that particular, and that ſome way of eaſe and redreſſe (if poſſi<g ref="char:EOLhyphen"/>ble) might be found therein. Further upon due conſideration had, That the corruption and abuſes, which in tract of time, had crept in<g ref="char:EOLhyphen"/>to the practice of the Lawes, were unjuſtifyable as well as inſuffera<g ref="char:EOLhyphen"/>ble; that the management of ſuits at Law was ſo tedious, ex<g ref="char:EOLhyphen"/>penſive, and delatory, that they were become at once both the ſhame and impoveriſhment of the Nation: It was therefore ex<g ref="char:EOLhyphen"/>preſly determined, That ſome expedients ſhould forthwith be made practicable for the regulating of the Courts for the mittigating of the Fees, and for the freeing of the Nation from ſo horrid a cheat; It being not reaſonable, that a generall good and advantage, ſhould be ſubjected under the emoluments of a particular party. Upon the whole, It was ſolemnely declared and profeſſed, that they would not imitate the unneceſſary worldly formes of Power and Great<g ref="char:EOLhyphen"/>neſs, neither would they graſpe after empty Titles, and a Lordly Domination; But as there was a change of Perſons and Things, ſo there ſhould be alſo of Principles and Practiſe; and that they ſhould alwayes rejoyce to be found walking in thoſe even and un<g ref="char:EOLhyphen"/>crooked
+<pb n="15" facs="tcp:119015:8"/>paths of Truth, Honeſty, Humility and Moderation. Sure<g ref="char:EOLhyphen"/>ly theſe were the good things at firſt engaged for, and promiſed; which were again and again avowed as emergencies did ariſe; Which were conteſted for unto Blood; and which were ſealed, and witneſſed unto by wonderfull and glorious Victories and Succeſſes. In the endeavours after thoſe things, that the Nation might at length reap the bleſſed fruit of them, it was very clearly manifeſted, that ſo excellent a Superſtruction could not be erected upon a rotten de<g ref="char:EOLhyphen"/>crepit foundation. For, the ſingle Perſon, the Lords, and the cor<g ref="char:EOLhyphen"/>rupt Intereſts, which were neceſſary to be ſhaken and abridged in their illegall uſurpations, if ſuch things as thoſe were once reduced in practiſe, did unanimouſly combine together to retard and ſlugg their motions, and if poſſible to diſappoint them. After many conteſts, after many vain attempts uſed to reconcile things upon their old bottome, Divine Providence, by degrees, did point out the ne<g ref="char:EOLhyphen"/>ceſſity of the change of Government; and Kingſhip being laid aſide as unneceſſary, chargeable and dangerous, it was divolved into a Commonwealth: This being a certain Rule, <hi>That corrupt and degenerate States cannot be perfectly healed, and regulated, but by ſtepping in to thoſe formes, which are the fartheſt diſtant from thoſe wherein they were corrupted.</hi> And withall, ſuch as the Prin<g ref="char:EOLhyphen"/>ciples are ſuch muſt the form of Government be; Thoſe principles, that are pure, and refined, that more ſpecially regard the intereſts of the People, cannot be attained to, and made practicable, but in the current of a Popular State. The tendency then of our late occurences having been to ſtaine the pride of all glory: to bring down the loftineſſe of all fleſhly excellencys; to ſerve the Liberties of the people of God; and to ſet the Nation free from all Yoaks, and ſlavery; It will be a vain thing to imagine that thoſe can be otherwiſe propagated and upheld, than in the moſt unblended, and unblemiſhed intereſts of a Commonwealth. But I adviſedly put a ſtop here, And draw a Curtain over what remains: and ſince it is night, ſince the day is eclipſed and darkened, I think it moſt proper to be covered with Sables, and to wander ſolitary in ſhades and obſcurity.</p>
+            </div>
+            <div type="conclusion">
+               <pb n="16" facs="tcp:119015:9"/>
+               <head>The Concluſion, <hi>God with us,</hi> the eſtabliſhment of the Commonwealth.</head>
+               <p>TO conclude, Behold then here as in a Chriſtall Mirrour, the <hi>good old Cauſe</hi> purg'd from thoſe dreggs and defilements, which in time it had contracted: You that ſcoſt at it, you that have ſtart<g ref="char:EOLhyphen"/>ed from it, you that have mix'd it, may herein clearly veiw as in a Summary and Compendium, <hi>The Cauſe in its firſt riſe and management, and as it was ſeconded, and re-inforced with its cir<g ref="char:EOLhyphen"/>cumſtantiall explanationss:</hi> It hath been the price of Blood, if you deſert it now, and baſely betray it in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the power of any, it will either argue, that the blood ſpilt therein has been innocent, and cauſeleſs, or elſe convince you of ſtupour and ſorriſhneſs, that you know not the value of that which you have ſo dearly purchaſed. It hath been confirmed by your many and ſolemne Covenants and Engagements, if you are not conſcientious to fullfill them, you will leave on your names to all Poſterity, the ſtain and blem ſh of Falſhood and Unfaithfullneſs. It hath been ſignally owned by God, having had the impreſſe of his Name and Preſence upon it; If you ſhall court the worldy Powers, Advantages, and Grandures, which he hath blaſted and forſaken, you may indeed embrace a ſhadow, but you will loſe the ſubſtance; you may indeed have the empty ſhinings of mans favour, but you will therein be depri<g ref="char:EOLhyphen"/>ed of the face of God. It will certainly be our ſafety, it will be our honour to preſerve theſe two in an inſeparable union, and con<g ref="char:EOLhyphen"/>junction, and to have them alwayes ingraven together, as it were in letters of Gold upon burniſht braſs, GOD WITH US, THE COM<g ref="char:EOLhyphen"/>MON-WEALTH OF <hi>ENGLAND.</hi>
+               </p>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
